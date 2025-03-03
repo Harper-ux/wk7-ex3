@@ -41,7 +41,7 @@ namespace wk7_ex3
     {
         static void Main(string[] args)
         {
-            // Your code here
+            //attempt stumped coder and workscheduale got ahead of them 
         }
     }
 }
